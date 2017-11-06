@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453893905750",
+    "firebase_url": "https://fir-authenticationexampl-dd48f.firebaseio.com",
+    "project_id": "fir-authenticationexampl-dd48f",
+    "storage_bucket": "fir-authenticationexampl-dd48f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453893905750:android:60c40f2749dd9007",
+        "android_client_info": {
+          "package_name": "com.example.kartheek.firebaseauthenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453893905750-stv51ve807g719p8072uhtrdodpphf9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kartheek.firebaseauthenticationexample",
+            "certificate_hash": "3a19a01ae6711348b9aa5cc5dc66dc7915100a6b"
+          }
+        },
+        {
+          "client_id": "453893905750-jp784gnq3e9rp73eii09vtt0eqrumo9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzeBzuvpz7mXt4nq77MlfxWdfWUImqZbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453893905750-jp784gnq3e9rp73eii09vtt0eqrumo9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
